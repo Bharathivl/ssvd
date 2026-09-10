@@ -1,0 +1,6 @@
+{
+  "name": "PropBot AI",
+  "description": "Smart Property Search Powered by Artificial Intelligence",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
